@@ -1,7 +1,7 @@
 ### LAB2
 
 
-### 1. Створив папкy lab2 і файл readme.md
+### 1. Створив папкy lab_2 і файл readme.md
 
 ### 2. Встановив pipenv та виконав такі команди 
     pip install pipenv
