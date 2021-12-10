@@ -26,4 +26,4 @@ git log
 
 8.Додав картинку
 
-![Image alt](https://github.com/BohdanNikolaychuk/Nikolaychuk_B_IK_31/blob/main/lab1/1.png)
+![Image alt](1.png)
