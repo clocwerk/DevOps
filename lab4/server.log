@@ -1,0 +1,43 @@
+INFO 2021-11-23 15:29:00,313 root : Server is available. Time on server: 2021-11-23 13:29:00
+INFO 2021-11-23 15:29:00,313 root : Request page: : http://localhost:8000/health/
+INFO 2021-11-23 15:29:00,313 root : Answer of the server includes:
+INFO 2021-11-23 15:29:00,313 root : Key: date, Emount: 2021-11-23 13:29:00
+INFO 2021-11-23 15:29:00,313 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2021-11-23 15:29:00,313 root : Key: server_info, Emount: ['Linux', 'vlad', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2021-11-23 15:29:00,313 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2021-11-23 15:30:00,382 root : Server is available. Time on server: 2021-11-23 13:30:00
+INFO 2021-11-23 15:30:00,383 root : Request page: : http://localhost:8000/health/
+INFO 2021-11-23 15:30:00,383 root : Answer of the server includes:
+INFO 2021-11-23 15:30:00,383 root : Key: date, Emount: 2021-11-23 13:30:00
+INFO 2021-11-23 15:30:00,383 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2021-11-23 15:30:00,383 root : Key: server_info, Emount: ['Linux', 'vlad', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2021-11-23 15:30:00,383 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2021-11-23 15:31:00,470 root : Server is available. Time on server: 2021-11-23 13:31:00
+INFO 2021-11-23 15:31:00,470 root : Request page: : http://localhost:8000/health/
+INFO 2021-11-23 15:31:00,470 root : Answer of the server includes:
+INFO 2021-11-23 15:31:00,471 root : Key: date, Emount: 2021-11-23 13:31:00
+INFO 2021-11-23 15:31:00,471 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2021-11-23 15:31:00,471 root : Key: server_info, Emount: ['Linux', 'vlad', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2021-11-23 15:31:00,471 root : Key: client_info, Emount: python-requests/2.25.0
+ERROR 2021-11-23 15:32:00,537 root : There is no access to the
+ERROR 2021-11-23 15:33:00,599 root : There is no access to the
+ERROR 2021-11-23 15:34:00,666 root : There is no access to the
+ERROR 2021-11-23 15:35:00,717 root : There is no access to the
+ERROR 2021-11-23 15:36:00,780 root : There is no access to the
+ERROR 2021-11-23 15:37:00,847 root : There is no access to the
+ERROR 2021-11-23 15:38:00,872 root : There is no access to the
+ERROR 2021-11-23 15:39:00,940 root : There is no access to the
+ERROR 2021-11-23 15:40:01,007 root : There is no access to the
+ERROR 2021-11-23 15:41:01,068 root : There is no access to the
+ERROR 2021-11-23 15:42:01,131 root : There is no access to the
+ERROR 2021-11-23 15:43:01,196 root : There is no access to the
+ERROR 2021-11-23 15:44:01,261 root : There is no access to the
+ERROR 2021-11-23 17:07:23,468 root : There is no access to the
+ERROR 2021-11-23 17:08:23,532 root : There is no access to the
+ERROR 2021-11-23 17:09:23,597 root : There is no access to the
+ERROR 2021-11-23 17:10:23,660 root : There is no access to the
+ERROR 2021-11-23 17:11:23,723 root : There is no access to the
+ERROR 2021-11-23 17:12:23,787 root : There is no access to the
+ERROR 2021-11-23 17:13:23,850 root : There is no access to the
+ERROR 2021-11-23 17:14:23,915 root : There is no access to the
+
