@@ -8,7 +8,7 @@ git clone
 ```` shell script
 git commit -m "Lab__1"
 ````
-3.Такий хеш у коміта d09e7128d33716cfa0464be5cd40989e8a29d0bf я переглянув логи такою командою
+3.Такий хеш у коміта 3f058639c31dcfe90c7266bede48ebafdd75991c я переглянув логи такою командою
 ```` shell script
 git log
 ````
